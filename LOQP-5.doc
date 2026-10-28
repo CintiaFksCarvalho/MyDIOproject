@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#LOQP-5] Gerir produtos no carrinho</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://cintiafkscarvalho.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://cintiafkscarvalho.atlassian.net/browse/LOQP-3">Como cliente desejo adicionar produtos ao carrinho de compras</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://cintiafkscarvalho.atlassian.net/browse/LOQP-3">LOQP-3</a>)</span>
+                <h3 class="formtitle"><img src="https://cintiafkscarvalho.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [LOQP-5]&nbsp;<a href="https://cintiafkscarvalho.atlassian.net/browse/LOQP-5">Gerir produtos no carrinho</a>
+            <span class="subText">
+               Criado: 22/out/26                   &nbsp;Atualizado: 22/out/26
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Estado:</b></td>
+        <td width="80%">A fazer</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://cintiafkscarvalho.atlassian.net/secure/BrowseProject.jspa?id=10035">Loja Online - QA Practice.</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Afeta as versões:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões de correção:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Principal:</b></td>
+        <td width="80%"><a href="https://cintiafkscarvalho.atlassian.net/browse/LOQP-3">Como cliente desejo adicionar produtos ao carrinho de compras</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            História
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Criador:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:8f22905b-d780-4e6a-8762-5398ea330df6"
+                id="word_reporter_712020:8f22905b-d780-4e6a-8762-5398ea330df6"
+                href="https://cintiafkscarvalho.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A8f22905b-d780-4e6a-8762-5398ea330df6">
+                    Cíntia Carvalho
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Sem responsável
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Não Resolvido
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etiquetas:</b>
+        </td>
+        <td id="labels-10087-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Tempo Restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo Gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo Estimado:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+    
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Classificação:</b></td>
+                <td id="customfield_10019-10087-value" class="value" bgcolor="#ffffff" width="80%">      0|i0003t:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10087-value" class="value" bgcolor="#ffffff" width="80%"></td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descrição</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Cliente autenticado adiciona um produto</p>
+
+<p>Consulta o carrinho</p>
+
+<p>Adiciona vários produtos</p>
+
+<p>Visitante tenta finalizar a compra</p>
+
+<p>Visitante cria uma conta durante a compra</p>
+
+<p><b>Resultado esperado</b></p>
+
+<ol>
+	<li>O produto aparece no carrinho.</li>
+	<li>Os produtos, as quantidades e os preços estão corretos.</li>
+	<li>O total corresponde a soma dos alores.</li>
+	<li>O sistema solicita autenticação ou registo.</li>
+	<li>Pode prosseguir após concluir o registro e a autenticação exigidos.</li>
+</ol>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Gerado às Wed Oct 28 19:59:01 UTC 2026 por Cíntia Carvalho usando o JIRA 1001.0.0-SNAPSHOT#100295-rev:6dff190a80b9b06802b0250b6081b36261a9a568.
+
+</body>
+</html>
